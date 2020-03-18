@@ -1,0 +1,8 @@
+Pt persoane juridice : de la register la primire email, se fac verificari pe api de valididate juridiciare persoana
+(nu oricine poate fi firma)
+Git universal
+Notificari in app pentru refresh al documentelor noi pt sortare
+Invoice/Reciept preview File 
+Scrum 2 front end
+DB SV
+CLD SV
